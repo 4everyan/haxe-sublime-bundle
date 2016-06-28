@@ -124,7 +124,7 @@
         ]
     },
     {
-        "keys": ["ctrl+shift+b"],
+        "keys": ["ctrl+shift+F8"],
         "command": "haxe_select_build",
         "context":
         [
@@ -136,7 +136,7 @@
         ]
     },
     {
-        "keys": ["ctrl+shift+alt+b"],
+        "keys": ["ctrl+shift+alt+F8"],
         "command": "haxe_select_build",
         "args":
         {
@@ -152,7 +152,7 @@
         ]
     },
     {
-        "keys": ["ctrl+enter"],
+        "keys": ["ctrl+shift+F5"],
         "command": "run_macro_file",
         "args":
         {
